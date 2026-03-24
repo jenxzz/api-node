@@ -1,0 +1,25 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "O comando a seguir cria automaticamente um arquivo chamado package.json (RG do projeto)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeLacerda/api-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PeLacerda/api-node/issues"
+  },
+  "homepage": "https://github.com/PeLacerda/api-node#readme"
+}
